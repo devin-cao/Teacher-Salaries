@@ -1,0 +1,5 @@
+Estimating Teacher Salaries in the U.S
+
+A multiple linear regression model was created to estimate teacher salaries based on region and spending. Data of teacher salary is from 
+"Probability and Statistics for Engineering and the Sciences, 8th Edition" by Jay Devore, Brooks/Cole 2012.
+
