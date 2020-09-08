@@ -1,0 +1,52 @@
+State,Region,Pay,Spend
+Maine,NE,19.6,3.35
+Vermont,NE,20.3,3.55
+Rhode Island,NE,29.5,4.67
+New York,MA,30.7,5.71
+Pennsylvania,MA,25.9,4.17
+Indiana,ENC,24.3,3.16
+Michigan,ENC,30.2,3.78
+Minnesota,WNC,27.4,3.98
+Missouri,WNC,22,3.16
+South Dakota,WNC,18.1,2.97
+Kansas,WNC,27.6,3.91
+Maryland,SA,27.2,4.35
+Virginia,SA,23.4,3.59
+North Carolina,SA,22.8,3.37
+Georgia,SA,22.1,2.98
+Kentucky,ESC,20.9,2.85
+Alabama,ESC,22.9,2.73
+Arkansas,WSC,19.5,2.64
+Oklahoma,WSC,21.4,2.75
+Montana,MN,22.5,3.95
+Wyoming,MN,27.2,5.44
+New Mexico,MN,22.6,3.4
+Utah,MN,22.3,2.3
+Washington,PA,26,3.71
+California,PA,29.1,3.61
+Hawaii,PA,25.8,3.77
+New Hampshire,NE,20.3,3.11
+Massachussets,NE,26.8,4.64
+Connecticut,NE,26.6,4.89
+New Jersey,MA,27.2,5.54
+Ohio,ENC,24.5,3.55
+Illinois,ENC,27.2,3.62
+Wisconsin,ENC,26.5,4.25
+Iowa,WNC,21.7,3.57
+North Dakota,WNC,20.8,3.06
+Nebraska,WNC,20.9,3.29
+Delaware,SA,24.6,4.52
+Washington DC,SA,34,5.02
+West Virginia,SA,20.6,2.82
+South Carolina,SA,21.6,2.92
+Florida,SA,22.3,3.73
+Tennessee,ESC,21.8,2.53
+Mississippi,ESC,18.4,2.31
+Lousiana,WSC,20.5,3.12
+Texas,WSC,25.2,3.43
+Idaho,MN,21,2.51
+Colorado,MN,25.9,4.04
+Arizona,MN,26.6,2.83
+Nevada,MN,25.6,2.93
+Oregon,PA,25.8,4.12
+Alaska,PA,41.5,8.35
